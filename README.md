@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **JavaScript Frameworks (react,vue), Backend Development**
+- 🌱 I’m currently learning **JavaScript Frameworks (react,vue), Data Visualization**
   
 - 🧑‍🎓 I'm an undergraduate at **NSBM**
 
