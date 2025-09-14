@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/oshadi-rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshadi-rathnayaka" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/oshadi-rathnayaka-b6586929a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshadi-rathnayaka" height="30" width="50" /></a>
 <a href="https://fb.com/oshi rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshi rathnayaka" height="30" width="50" /></a>
 <a href="https://instagram.com/_oshyy.yy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oshyy.yy_" height="30" width="50" /></a>
 </p>
